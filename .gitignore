@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv*/
+*_env/
+*.zip
+data/
+dataset/
+*.pt
+*.pth
+*.ckpt
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
